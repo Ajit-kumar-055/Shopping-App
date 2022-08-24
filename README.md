@@ -1,5 +1,5 @@
 # Shopping-App(Android App)
-Build on using Best Buy APIs
+Build on using Best Buy APIs.
 Shopping app for electronics Items.
 
 # Features
